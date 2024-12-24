@@ -11,7 +11,7 @@ module.exports = {
   config: {
     name: "alldl",
     version: "1.0.5",
-    author: "Tamim",
+    author: "Dipto",
     countDown: 2,
     role: 0,
     description: {
